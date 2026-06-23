@@ -18,4 +18,28 @@
 
  #Installation 
 
+ Command Prompt 
  
+ git clone https://github.com/DevDani12/Task.git 
+ cd task 
+ npm install 
+
+ #Project Stracture 
+
+task/
+|--- public
+|---- src
+|---- README.md
+|----package.json
+|
+
+#Technologies Used
+
+.HTML
+.taliwindcss
+.Javascript 
+.React
+
+#Author
+Daniel Sisay 
+
